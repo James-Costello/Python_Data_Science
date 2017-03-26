@@ -32,3 +32,28 @@
 # Now the differene (-3.4, -0.4, 0.6, -0.4, 3.6)
 # Square them (11.56,0.16,0.36,0.16,12.96)
 # sigma = (11.56,0.16,0.36,0.16,12.96)/5 = 5.04
+
+# Standard Deviation is sigma, the square root of the variance
+# σ^2 = 5.04
+# σ = 2.24
+
+# Population Variance vs Sample Variance
+
+# Population Variance = (∑numof data points - mean)^2/(n)
+# Sample Variance = (∑numof data points - mean)^2/(n-1)
+
+# Probability Density Function = Continuous Data
+# Probability Mass Function = Discrete Data
+
+# Percentiles and Moments
+ # 1st moment = mean
+ # 2nd moment =variance
+ # 3rd moment = skew
+ # 4th moment = kurtosis
+
+
+
+
+
+
+
