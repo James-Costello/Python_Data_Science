@@ -51,6 +51,17 @@
  # 3rd moment = skew
  # 4th moment = kurtosis
 
+#matplotlib
+
+#Covariance % correlation
+
+# Conditional Probability
+
+# The Probability of B given A
+# P(B|A) = P(B,A)/P(A)
+
+# P(B|A) = (0.6)/(0.8) = 75%
+
 
 
 
