@@ -47,13 +47,13 @@
 
 # Percentiles and Moments
  # 1st moment = mean
- # 2nd moment =variance
+ # 2nd moment = variance
  # 3rd moment = skew
  # 4th moment = kurtosis
 
 #matplotlib
 
-#Covariance % correlation
+# Covariance % correlation
 
 # Conditional Probability
 
@@ -61,6 +61,8 @@
 # P(B|A) = P(B,A)/P(A)
 
 # P(B|A) = (0.6)/(0.8) = 75%
+
+#Bayes Theorem
 
 
 
