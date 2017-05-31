@@ -38,6 +38,10 @@ del nfl_frame['Stadium']
 
 # Dataframe methods
 dframe.sum()
+
+# adding rows instead of colunmns
+dframe.sum(axis=1)
+
 dframe.min()
 
 # index for min value in column
