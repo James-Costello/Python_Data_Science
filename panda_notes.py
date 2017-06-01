@@ -56,6 +56,8 @@ d.frame.describe()
 
 # Info on correlation and covariance
 
+# Pandas
+# passing sql queries, it is best to encapsulate that in a function
 
 
 
